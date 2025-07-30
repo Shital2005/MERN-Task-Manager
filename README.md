@@ -3,8 +3,6 @@
 A MERN application for basic tasks management.
 
 
-
-
 ## Features
 
 ### User-side features
